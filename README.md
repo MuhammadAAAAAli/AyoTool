@@ -1,8 +1,8 @@
 # Welcome to Ayo
 
- 	*Ayo is a password generator and password craking tool.
- 	*A fun tool that helps you be creative and explore the cryptography field.
- 	*Any support for the project is much appreciated.
+ 	Ayo is a password generator and password craking tool.
+ 	A fun tool that helps you be creative and explore the cryptography field.
+ 	Any support for the project is much appreciated.
 
 
 ##[mode 1 - learning]
@@ -41,6 +41,8 @@ Currently not supported. Will be extended to all kind of hashing algorithms.
 Maybe one day can be integrated with mono and run on Linux.
 
 
-##ayo --help output
+
+#ayo --help output
+
 
 [![cmd.png](https://s14.postimg.org/3s8e249bl/cmd.png)](https://postimg.org/image/ymfmzuey5/)
