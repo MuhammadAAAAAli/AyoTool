@@ -1,6 +1,8 @@
 # Welcome to Ayo
 
-**Ayo is a password generater and password craking tool**
+ *Ayo is a password generater and password craking tool
+ *A fun tool that helps you be creative and explore the cryptography field.
+ *Any support for the project is much appreciated
 
 
 ##[mode 1 - learning]
@@ -9,15 +11,16 @@ Is able to learn the order of words from .pdf books in order to generate smart p
 
  `example : ayo.exe --learn --path %path_to_folder% --write %path_to_folder% --clean 30`
 
-**Note !** 
-*the clean command ( --clean 30 ) will erase 30% of the words, the ones that have the least connections. Can be used in range 0-100.
+**Note bout --clean!** 
+ *ex : --clean 30 will erase 30% of the words, the ones that have the least connections
+ *can be used in range 0-100
 
 
 ##[mode 2 - generating]
 
 Generates possible passes based on ayo json. 
 
- `example : ayo.exe --generate --json %path_to_json% --write %path_to_txt_file% -wnsw --nr 10`
+ `example : ayo.exe --generate --json %path_to_json% --write %path_to_txt_file% -wnsw --nr 10000`
 
 **Note !** 
  * wnsw means word + number + special_char + word
