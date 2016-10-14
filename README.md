@@ -1,7 +1,9 @@
 # Welcome to Ayo
 
  **Ayo is a password generater and password craking tool.**
+
  **A fun tool that helps you be creative and explore the cryptography field.**
+ 
  **Any support for the project is much appreciated.**
 
 
