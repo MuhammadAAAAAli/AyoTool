@@ -5,7 +5,7 @@
  	 Any support for the project is much appreciated.
 
 
-##[mode 1 - learning]##
+##[mode 1 - learning]
 
 Is able to learn the order of words from .pdf books in order to generate smart possible passes. Currently works only in English as is not able to replace language specific characters ( example : replace 'ù' with 'u'). The output of this mode is a .json file that holds the structure of the words. Is a neuronal network structure implemented with dictionarys so we can have constant complexity ( O(1) ). Just the clean operation has complexity O(n*n) but is done only once.
 
@@ -16,7 +16,7 @@ Is able to learn the order of words from .pdf books in order to generate smart p
  *can be used in range 0-100
 
 
-##[mode 2 - generating]##
+##[mode 2 - generating]
 
 Generates possible passes based on ayo json. 
 
@@ -34,7 +34,7 @@ Generates possible passes based on ayo json.
  * s - special character
  
 
-##[mode 3 - cracking]##
+##[mode 3 - cracking]
 
 Currently not supported. Will be extended to all kind of hashing algorithms. 
 
@@ -42,7 +42,7 @@ Maybe one day can be integrated with mono and run on Linux.
 
 
 
-#ayo --help output#
+#ayo --help output
 
 
 [![cmd.png](https://s14.postimg.org/3s8e249bl/cmd.png)](https://postimg.org/image/ymfmzuey5/)
