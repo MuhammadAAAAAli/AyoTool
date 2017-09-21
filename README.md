@@ -12,8 +12,8 @@ Is able to learn the order of words from .pdf books in order to generate smart p
  `example : ayo.exe --learn --path %path_to_folder% --write %path_to_folder% --clean 30`
 
 **Note bout --clean!** 
- *ex : --clean 30 will erase 30% of the words, the ones that have the least connections
- *can be used in range 0-100
+ * ex : --clean 30 will erase 30% of the words, the ones that have the least connections 
+ * can be used in range 0-100 
 
 
 ## [mode 2 - generating] ##
@@ -42,7 +42,7 @@ Maybe one day can be integrated with mono and run on Linux.
 
 
 
-#ayo --help output
+# ayo --help output
 
 
 [![cmd.png](https://s14.postimg.org/3s8e249bl/cmd.png)](https://postimg.org/image/ymfmzuey5/)
