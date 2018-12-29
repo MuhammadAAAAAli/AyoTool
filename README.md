@@ -45,4 +45,4 @@ Maybe one day can be integrated with mono and run on Linux.
 # ayo --help output
 
 
-[![cmd.png](https://github.com/MuhammadAAAAAli/AyoTool/blob/master/help.png)
+[![cmd.png](https://github.com/MuhammadAAAAAli/AyoTool/blob/master/helpMenu.png)
