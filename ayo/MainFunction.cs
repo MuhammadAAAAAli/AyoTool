@@ -19,7 +19,7 @@ namespace ayo
                 if (!args.Any())
                     ShowHelpMenu();
                 else
-                    CheckIfWeCanStartAnyMode(args, clean);
+                    CheckIfWeCanStartAnyMode(args, ref clean);
 
                 if (learnModeOk)
                     StartLearnMode(inputFolderPath, outputFolderPath, clean);
@@ -88,7 +88,7 @@ namespace ayo
 
         private static string inputFolderPath;
         private static string outputFolderPath;
-        private static readonly int clean = 50; // 50% default
+        private static int clean = 50; // 50% default
 
         #endregion
 
@@ -103,7 +103,7 @@ namespace ayo
 
         #region Initial logic - choose mode and initialize
 
-        private static void CheckIfWeCanStartAnyMode(string[] args, int clean)
+        private static void CheckIfWeCanStartAnyMode(string[] args, ref int clean)
         {
             switch (args[0])
             {
