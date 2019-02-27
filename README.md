@@ -20,7 +20,7 @@ Is able to learn the order of words from .pdf books in order to generate smart p
 
 Generates possible passes based on ayo json. 
 
- `example : ayo.exe --generate --json %path_to_json% --write %path_to_txt_file% -wnsw --nr 10000`
+ `example : ayo.exe --generate --json %path_to_json_file% --write %path_to_txt_file% -wnsw --nr 10000`
 
 **Note !** 
  * -wnsw means word + number + special_char + word
