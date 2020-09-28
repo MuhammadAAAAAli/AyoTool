@@ -1,3 +1,5 @@
+http://www.ijsrp.org/research-paper-0319.php?rp=P878357
+
 # Welcome to Ayo
 
  	 Ayo is a password generator and password craking tool.
