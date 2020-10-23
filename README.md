@@ -1,4 +1,4 @@
-(IJSRP White Papaer Link](http://www.ijsrp.org/research-paper-0319.php?rp=P878357)
+[IJSRP White Papaer Link](http://www.ijsrp.org/research-paper-0319.php?rp=P878357)
 
 # Welcome to Ayo
 
